@@ -79,7 +79,6 @@ fun EmailField() {
     )
 }
 
-
 @Composable
 fun HeaderImage(modifier: Modifier) {
     Image(painter = painterResource(id = R.drawable.tmx), contentDescription = "Header")
