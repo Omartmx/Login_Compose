@@ -55,7 +55,6 @@ fun PasswordField() {
         placeholder = { Text(text = "Contraseña") },
         modifier = Modifier.fillMaxWidth(),
         keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Password),
-sdg
         )
 }
 
